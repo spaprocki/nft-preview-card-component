@@ -25,6 +25,7 @@ body {
   place-content: center;
   overflow: auto;
   min-height: 100vh;
+  position: relative;
 }
 
 main {
